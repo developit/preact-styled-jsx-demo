@@ -1,7 +1,8 @@
-# [Preact] + [syled-jsx] Demo
+# [Preact] + [styled-jsx] Demo
 
 Just a simple demo showing [preact-boilerplate] converted over to [styled-jsx], running without [preact-compat].
 
+**Demo:** https://preact-styled-jsx-demo.now.sh
 
 ---
 
