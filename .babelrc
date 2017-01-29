@@ -5,7 +5,7 @@
     "stage-0"
   ],
   "plugins": [
-    ["transform-react-jsx", { "pragma": "h" }],
-    "styled-jsx/babel"
+    "styled-jsx/babel",
+    ["transform-react-jsx", { "pragma": "h" }]
   ]
 }
